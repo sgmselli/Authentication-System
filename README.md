@@ -1,2 +1,5 @@
-# User-registration-and-authentication-GUI-
-Using Java and SQL server, I created a user authentication and registration connecting the technologies with a JDBC API
+# Authentication System
+
+Authentication and registration system GUI in Java that connects to a SQLServer database via JDBC. 
+
+Implements a hashing method for secure storage.
